@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'MonoplexKR-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_Monoplex-kr@1.0/MonoplexKR-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+#PrivateInformation {
+    position: absolute;
+    margin:200px 0px 0px -50px;
+    background-color:#DCDCDC;
+    color:black;
+    border-radius:5px;
+    font-size: 4rem;
+    font-family: 'MonoplexKR-Regular';
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+#GameInformation {
+    position:absolute;
+    margin:200px 0px 0px 600px;
+    background-color:#DCDCDC;
+    color:black;
+    border-radius:5px;
+    font-size: 4rem;
+    font-family: 'MonoplexKR-Regular';
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+

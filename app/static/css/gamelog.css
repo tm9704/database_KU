@@ -1,0 +1,15 @@
+.title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.form-group {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.form-control {
+  margin-right: 5px;
+}

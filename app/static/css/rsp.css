@@ -1,0 +1,107 @@
+@font-face {
+    font-family: 'Tenada';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2210-2@1.0/Tenada.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+#computer {
+    position:absolute;
+    margin:-250px 0px 0px -550px;
+    top:50%;
+    left:50%;
+    width: 480px;
+    height: 400px;
+    border:black;
+    border-style: solid;
+    border-width: 8px;
+}
+#btn_group button{
+    background-color:#DCDCDC;
+    color:black;
+    border-radius:5px;
+    padding:15px;
+    min-height:30px;
+    min-width: 120px;
+    font-size: 4rem;
+    font-family: 'Tenada';
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+#btn_group button:hover{
+    color:white;
+    background-color:black;
+    transition: 0.5s;
+}
+#btn_group button:active{
+    color:white;
+    background-color:black;
+}
+#scissor {
+    position:absolute;
+    margin:150px 0px 0px -550px;
+    top:50%;
+    left:50%;
+    width: 160px;
+    height: 150px;
+    border:black;
+    border-style: none solid solid;
+    border-width: 5px;
+}
+#rock {
+    position:absolute;
+    margin:150px 0px 0px -390px;
+    top:50%;
+    left:50%;
+    width: 160px;
+    height: 150px;
+    border:black;
+    border-style: none none solid;
+    border-width: 5px;
+}
+#paper {
+    position:absolute;
+    margin:150px 0px 0px -230px;
+    top:50%;
+    left:50%;
+    width: 160px;
+    height: 150px;
+    border:black;
+    border-style: none solid solid;
+    border-width: 5px;
+}
+#new_game {
+    position:absolute;
+    margin:150px 0px 0px 20px;
+    top:50%;
+    left:50%;
+    width: 160px;
+    height: 150px;
+    border:black;
+    border-style: solid;
+    border-width: 5px;
+}
+#score {
+    position:absolute;
+    margin:-120px 0px 0px 20px;
+    top:50%;
+    left:50%;
+    width: auto;
+    height: auto;
+    background-color:#DCDCDC;
+    color:black;
+    border-radius:5px;
+    padding:15px;
+    min-height:30px;
+    min-width: 120px;
+    font-size: 4rem;
+    font-family: 'Tenada';
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border:black;
+    border-style: solid;
+    border-width: 5px;
+}
+
+
