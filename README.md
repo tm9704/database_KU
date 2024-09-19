@@ -1,7 +1,7 @@
 # database_KU
-고려대학교 데이터베이스 수업 발표 과제
+Korea大学データベース課題
 
-python과 flask를 이용한 웹 가위,바위,보 게임 <br/>
-로그인 기능과, 개인 정보, 개인 게임 기록등을 관리하기 위해<br/>
-MySQL을 사용한 database 구축<br/>
+pythonとflaskを使った簡単なジャンケンのウェブサイト <br/>
+ログインとユーザ情報,個人ゲーム記録などを管理するために<br/>
+MySQLを使ったデータベース構築<br/>
 https://drive.google.com/file/d/1oMQtwp-pHoVfz0QucGBVTvOMIarrvf1u/view?usp=share_link
